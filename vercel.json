@@ -1,0 +1,6 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "env": {
+    "NEXT_PUBLIC_CONVEX_URL": "https://superb-mastiff-265.convex.cloud"
+  }
+}
